@@ -4,8 +4,8 @@ ANALYSIS AND DESIGN OF ALGORITHMS
 Se mejora:
 
   Informe S2:
-    Descripcion del problema
-    Descripcion del algoritmo
+    Descripcion del problema,
+    Descripcion del algoritmo,
     Formato
 
   Informe S6:
